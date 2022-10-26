@@ -2,6 +2,7 @@
 .container{
     max-width:  1280px ;
     margin: 0 auto;
+    /* border: 1px solid red; */
 }
 .Navbar {
   height: 90px;
@@ -9,17 +10,20 @@
   justify-content: space-between;
   align-items: center;
   /* border: 1px solid red; */
+  overflow: hidden;
   /* background: #5265c4; */
 }
 .logoImg > img{
   /* border: 1px solid red; */
   height: 100%;
   width: 100%;
+  margin-left: -43px;
 }
 .logoImg{
     /* border: 1px solid red; */
     height: 230px;
     width: 230px;
+    overflow: hidden;
 }
 
 /* .Navbar > .nav-logo {
@@ -32,7 +36,7 @@
 .Navbar > .nav-items > a {
   color: black;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   text-decoration: none;
   margin: 15px;
   position: relative;
@@ -50,7 +54,7 @@
   bottom: 0;
   width: 0;
   height: 2px;
-  background: black;
+  background: #EFC600;
   transition: all 0.45s;
 }
 
