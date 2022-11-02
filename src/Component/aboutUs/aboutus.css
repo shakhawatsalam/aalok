@@ -5,25 +5,26 @@
 .title > h1 > span {
     color:  #EFC600;
 }
-.social{
+/* .social{
     margin-top: 10px;
     color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 30px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     width:25%;
-}
-.social > a {
+} */
+/* .social > a {
     color: black;
     transition: 0.4s;
-}
+} */
 .social > a:hover {
     color:  #EFC600;
 }
 @media (max-width:843px){
     .title > h1 {
+        margin-top: 25rem;
         text-align: center;
         font-size: 50px;
         font-weight: 600;

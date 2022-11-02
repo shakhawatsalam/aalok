@@ -138,11 +138,15 @@
   }
   @media (max-width:843px){
     .content .right-side .topic-text{
+      margin-top: 25rem;
         text-align: center;
         font-size: 40px;
         font-weight: 600;
         color: black;
       }
   }
+  /* @media (max-width:843px){
+
+  } */
   
   
