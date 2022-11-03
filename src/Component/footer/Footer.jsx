@@ -65,10 +65,10 @@ const Footer = () => {
           <div class='footer-col'>
             <h4>follow us</h4>
             <div class='social-links'>
-              <a href='#'>
+              <a href='https://www.facebook.com/aanlok22/' target="_blank">
                 <AiFillFacebook />
               </a>
-              <a href='#'>
+              <a href='https://www.linkedin.com/company/aanlok/' target="_blank">
                 <AiFillLinkedin />
               </a>
               <a href='#'>

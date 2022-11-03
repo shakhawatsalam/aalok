@@ -18,7 +18,7 @@ const OusServices = () => {
               <div className='icon-wrapper'>
                 <FaPaintBrush />
               </div>
-              <h3>Graphics Design</h3>
+              <h3>Graphic Design</h3>
               <p>“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</p>
             </div>
           </div>
