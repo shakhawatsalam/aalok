@@ -65,13 +65,15 @@ const Footer = () => {
           <div class='footer-col'>
             <h4>follow us</h4>
             <div class='social-links'>
-              <a href='https://www.facebook.com/aanlok22/' target="_blank">
+              <a href='https://www.facebook.com/aanlok22/' target='_blank'>
                 <AiFillFacebook />
               </a>
-              <a href='https://www.linkedin.com/company/aanlok/' target="_blank">
+              <a
+                href='https://www.linkedin.com/company/aanlok/'
+                target='_blank'>
                 <AiFillLinkedin />
               </a>
-              <a href='#'>
+              <a href='https://wa.me/918585061414' target='_blank'>
                 <RiWhatsappFill />
               </a>
             </div>
