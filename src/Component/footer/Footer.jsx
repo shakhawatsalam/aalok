@@ -45,7 +45,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div class='footer-col'>
+          {/* <div class='footer-col'>
             <h4>online shop</h4>
             <ul>
               <li>
@@ -61,7 +61,7 @@ const Footer = () => {
                 <a href='#'>dress</a>
               </li>
             </ul>
-          </div>
+          </div> */}
           <div class='footer-col'>
             <h4>follow us</h4>
             <div class='social-links'>
